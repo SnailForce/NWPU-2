@@ -48,3 +48,5 @@ int main()
 若没有前面的100.则1 = 2 = 3
 但存在100,2 = 3.
 2和3的取值只能为0/1,而1可以为100/101
+https://blog.csdn.net/lianqi15571/article/details/8877014
+*/
